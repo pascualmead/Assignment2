@@ -6,20 +6,20 @@ pascualmead@chapman.edu
 
 CPSC-350
 
-Assignment 2
+## Assignment 2
 
-Source Files Submitted:
+# Source Files Submitted:
 
 FileReader.h, FileReader.cpp, Grid.h, Grid.cpp, main.cpp
 
-Problems:
+# Problems:
 
-The code still has a lot of bugs but there are parts that work. I had  to spend a long time trying to fix a compiling issue which somewhat set me back. I was unable to figure out the other game modes and was unable to figure out how to stabilize my code. As a result, when the code runs, it will will keep making grids until you manually kill the running program.
+The code still has a lot of bugs but there are parts that work. I had  to spend a long time trying to fix a compiling issue which somewhat set me back. I was unable to figure out the other game modes and was unable to figure out how to stabilize my code. As a result, when the code runs, it will will keep making grids until you manually kill the running program. In addition, my FileReader does not work properly as well.
 
 *using one late day as well
 
 
-Instruction on running program:
+# Instruction on running program:
 
 g++ **.cpp
 
